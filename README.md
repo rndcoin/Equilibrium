@@ -4,7 +4,7 @@ Equilibrium coin
 What is Equilibrium?
 ----------------
 
-Equilibrium is about balance, the goal of the coin is to create a perfectly balanced currency that does not allow uneven hashing power distribution.
+Equilibrium is about balance, the goal of the coin is to create a perfectly balanced currency that does not allow uneven hashing power distribution. This fork will hopefully bring more value into the world of cryptocurrencies
 
 License
 -------
